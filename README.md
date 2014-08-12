@@ -1,4 +1,4 @@
-android-demo
+android-demos
 ============
 
 在Android中要用到的开源的代码，可能自己项目中会用到，尽量考虑使用场景，进行代码修改。
